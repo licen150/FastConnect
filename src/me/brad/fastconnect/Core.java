@@ -4,6 +4,7 @@ import net.md_5.bungee.api.ChatColor;
 import net.md_5.bungee.api.CommandSender;
 import net.md_5.bungee.api.plugin.Plugin;
 import net.md_5.bungee.protocol.packet.Respawn;
+import net.md_5.bungee.PacketConstants;
 public class Core extends Plugin {
 	private static Core instance;
 	@SuppressWarnings("deprecation")
